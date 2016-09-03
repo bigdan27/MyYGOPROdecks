@@ -1,2 +1,2 @@
 # MyYGOPROdecks
-A repository with all my decks and others I downloaded
+A repository with all my decks for YGOPRO and others I downloaded
